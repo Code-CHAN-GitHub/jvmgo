@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bc2c949-1616-4253-be80-538be7db9626" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="228D43T730XmzFoPto9DULsonNj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch10" />
+      <recent name="$PROJECT_DIR$/ch09/native/java" />
+      <recent name="$PROJECT_DIR$/ch06/rtda/heap" />
+      <recent name="$PROJECT_DIR$/ch05/instructions/control" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build jvmgo/ch11_helloworld">
+    <configuration name="go build jvmgo/ch01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-cp foo/bar MyApp arg1 agr2" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch01" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch01/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch02_helloworld" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch02 HelloWorld" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch02" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch02/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch02_object" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre java.lang.Object" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch02" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch02/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch03" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre java.lang.String" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch03" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch02/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch04" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="test" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch04" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch05" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch05 GaussTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch05" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch06" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch06 MyObject" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch06" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch07" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch07 InvokeDemo" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch07" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch07_ClinitTest" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch07 ClinitTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch07" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch07_Fibonacci" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch07 FibonacciTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch07" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch08" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch08 BubbleSortTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch08" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch08_PrintArgs" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch08 PrintArgs Hello arg2 arg3" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch08" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch09_BoxTest" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch09 BoxTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch09" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch09_CloneTest" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch09 CloneTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch09" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch09_GetClassTest" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch09 GetClassTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch09" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch09_ObjectTest" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch09 ObjectTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch09" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch09_StringTest" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch09 StringTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch09" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch10_ParseIntTest (abc)" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch10 ParseIntTest abc" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch10" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch10_ParseIntTest(123)" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch10 ParseIntTest 123" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch10" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch10_ParseIntTest(No args)" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch10 ParseIntTest" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch10" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/ch11_helloworld" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-Xjre /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre -cp ch11 HelloWorld" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/ch10" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch04/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jvmgo/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="jvmgo/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="jvmgo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/main.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build jvmgo/ch02_helloworld" />
+      <item itemvalue="Go Build.go build jvmgo/ch02_object" />
+      <item itemvalue="Go Build.go build jvmgo/ch03" />
+      <item itemvalue="Go Build.go build jvmgo/ch05" />
+      <item itemvalue="Go Build.go build jvmgo/ch06" />
+      <item itemvalue="Go Build.go build jvmgo/ch07" />
+      <item itemvalue="Go Build.go build jvmgo/ch07_Fibonacci" />
+      <item itemvalue="Go Build.go build jvmgo/ch07_ClinitTest" />
+      <item itemvalue="Go Build.go build jvmgo/ch08" />
+      <item itemvalue="Go Build.go build jvmgo/ch08_PrintArgs" />
+      <item itemvalue="Go Build.go build jvmgo/ch09_GetClassTest" />
+      <item itemvalue="Go Build.go build jvmgo/ch09_StringTest" />
+      <item itemvalue="Go Build.go build jvmgo/ch09_ObjectTest" />
+      <item itemvalue="Go Build.go build jvmgo/ch09_CloneTest" />
+      <item itemvalue="Go Build.go build jvmgo/ch09_BoxTest" />
+      <item itemvalue="Go Build.go build jvmgo/ch10_ParseIntTest(No args)" />
+      <item itemvalue="Go Build.go build jvmgo/ch10_ParseIntTest(123)" />
+      <item itemvalue="Go Build.go build jvmgo/ch10_ParseIntTest (abc)" />
+      <item itemvalue="Go Build.go build jvmgo/ch11_helloworld" />
+      <item itemvalue="Go Build.go build jvmgo/test" />
+      <item itemvalue="Go Build.go build jvmgo/ch01" />
+      <item itemvalue="Go Build.go build jvmgo/ch04" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build jvmgo/test" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build jvmgo/ch04" />
+        <item itemvalue="Go Build.go build jvmgo/ch01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch06/interpreter.go</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch07/instructions/references/new.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch08/interpreter.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch10/rtda/heap/class_loader.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch10/rtda/heap/class_loader.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch10/rtda/heap/class_loader.go</url>
+          <line>61</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch10/rtda/heap/class_loader.go</url>
+          <line>90</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch10/main.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;jvmgo/ch06/rtda/heap.Class&quot;)(824634213184)" />
+        <watch expression="*(*&quot;[]jvmgo/ch06/rtda.Slot&quot;)(824637965704)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

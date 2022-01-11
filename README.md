@@ -3,7 +3,7 @@
 
 **目录结构**
 
-<img src="/Users/chen/Library/Application Support/typora-user-images/截屏2022-01-11 19.45.53.png" alt="截屏2022-01-11 19.45.53" style="zoom:50%;" />
+<img src="https://img-bed-1307643120.cos.ap-shanghai.myqcloud.com/img/202201112022338.png" style="zoom:50%;" />
 
 - **classfile**：解析 class 字节码文件
 - **classpath**：从磁盘加载 class 文件
